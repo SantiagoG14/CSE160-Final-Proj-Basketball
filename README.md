@@ -5,3 +5,7 @@
 [Set up Virtual environment](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
 
 
+## Datasets
+
+- [SHAQ](https://www.dolthub.com/repositories/dolthub/SHAQ/data/main/player_season_stat_totals)
+- [Season Stats](https://www.kaggle.com/datasets/drgilermo/nba-players-stats?resource=download&select=Seasons_Stats.csv)
